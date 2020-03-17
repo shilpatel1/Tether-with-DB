@@ -1,0 +1,6 @@
+framework module Pods_TetherTests {
+  umbrella header "Pods-TetherTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
